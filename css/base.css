@@ -1,0 +1,21 @@
+﻿body,h1,h2,h3,p,ul,ol,form,input,textarea,th,td,select { margin:0;padding:0;}
+em { font-style:normal}
+a { text-decoration:none; }
+li { list-style:none;}
+img { border:none; vertical-align:top;}
+table{ border-collapse:collapse;}
+textarea{ resize:none; overflow:auto; }
+body { background:#fff; font-size:12px; font-family:微软雅黑, 宋体, "Times New Roman", Times, serif; }
+#wrap { height:700px; position:relative; background:url(../images/bg.jpg) center no-repeat; }
+
+#header{ background:url(../images/head.gif) center no-repeat; margin:0 auto; width:1002px; height:168px; position:relative; }
+#header .logo{ width:235px; height:99px; margin-bottom:2px; }
+#header span{ display:block; position:absolute; top:30px; right:60px; color:#3399cc; font-size:10px; }
+#header .nav{ width:1002px; height:68px; }
+#header .nav li{ height:68px; float:left; font-size:18px; color:#fff; overflow:hidden; }
+#header .nav a{ text-align:center; line-height:68px; color:#FFF; width:185px; height:68px; display:block; font-size:20px; }
+#header .nav a:hover{ background:url(../images/nav_a.jpg) center no-repeat; width:185px; height:68px; color:#F90; font-size:22px; border:none; }
+
+#footer{ text-align:center; width:1002px; height:70px; line-height:25px; color:#666; font-size:14px; }
+#footer a{ color:#666; margin:0 4px; }
+#footer a:hover{ color:#F90; }

@@ -1,0 +1,97 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+#body{
+	 margin:0 auto;
+ 	background-image:url(../images/login-backgroud.png);
+ 	width:992px;
+ 	height:687px;
+ }
+#contian{
+ 	background-image:url(../images/contain.png);
+ 	margin-bottom:18px;
+ 	height:531px;
+ 	position:relative;
+ }
+#check{
+    position:absolute;
+  	width:300px;
+ 	height:50px;
+	top:190px;
+	left:550px;
+	color:#FF0000;
+	font-size:14px;
+  }
+#username{
+ 	position:absolute;
+ 	top:271px;
+ 	left:572px;
+ 	color:#aaa;
+ 	font-size:14px;
+ }
+#password{
+ 	position:absolute;
+ 	top:312px;
+ 	left:572px;
+ 	color:#aaa;
+ 	font-size:14px;
+ }
+#button{
+  	position:absolute;
+  	height:25px;
+  	width:150px;
+  	top:350px;
+  	left:630px;
+ }
+#button1{
+	background-image:url(../images/button.png);
+	width:68px;
+	height:25px;
+	color:#aaa;
+	float:left;
+}
+#button2{
+	background-image:url(../images/button.png);
+	width:68px;
+	height:25px;
+	color:#aaa;
+	float:right;
+}
+#footer{
+	background-image:url(../images/footer.png);
+	height:138px;
+ }
+#footer1{
+ 	 margin:0 auto;
+ 	 width:330px;
+ 	 height:25px;
+ }
+#footer1 ul{
+  	margin:0px;
+  	padding:0px;
+ }
+#footer1 ul li{
+  	width:75px;
+  	float:left;
+  	list-style:none;/*»•µÙ‘≤µ„*/
+}
+#footer1 a{
+  	text-decoration:none;
+  	color:#aaa;
+ }
+#footer1 a:hover{
+  	color:#3399FF;
+ }
+#address{
+  	color:#aaa;
+  	clear:left;
+  	margin:0 auto;
+  	width:270px;
+  	height:25px;
+ }
+#footer2{
+   	margin:0 auto;
+   	width:270px;
+   	color:#aaa;
+ }

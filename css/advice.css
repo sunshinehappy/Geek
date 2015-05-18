@@ -1,0 +1,8 @@
+#container{ margin:0 auto; width:1002px; height:780px; background-color:#ebfffd; }
+#advice { width:1002px; height:550px; position:relative; }
+#left_img1{ position:absolute; left:10px; top:10px; }
+#content{ margin:0 auto; width:780px; height:360px; background:#3FF; position:absolute; top:140px; left:100px; border:2px #0CC solid; filter:alpha(opacity:60); opacity:0.6; }
+#content p { font-size:16px; margin:20px 60px; }
+#content form { width:776px; height:260px; text-align:center; } 
+#content .txt { width:700px; height:160px; color:#333; font-size:16px; padding:6px; font-family:"微软雅黑"; }
+#content input { width:60px; height:30px; font-size:14px; margin:10px 16px 0 0; cursor:pointer; -webkit-border-radius:3px; -moz-border-radius:3px; -o-border-radius:3px; border-radius:3px; }
